@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: lightgrey;
+    text-align: center;
+}
+h1{
+    color: green;
+}
+#msg{
+    margin-bottom: 1em;
+}
+#gameboard{
+    margin-top: 2%;
+    border: 5px solid;
+}
+#score{
+    margin-top: 2em;
+    font-size: 2em;
+}
+
+select{
+    margin: 0;
+    padding: 3px;
+    font-size: 100%;
+    background-color: whitesmoke;
+}
+button{
+    margin: 0;
+    border-radius: 40%;
+    font-size:100%;
+    background-color: whitesmoke; 
+    cursor: pointer;
+}
